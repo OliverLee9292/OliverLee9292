@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🧪 I build practical AI solutions using Python, Azure, and modern ML tooling
+🧪 I build practical AI solutions using Python, Azure, and modern ML tooling <br>
 🤖 Currently focused on AI agents, computer vision, and NLP-driven automation
 📈 I also work on quantitative investing and algorithmic trading projects
 🌱 Studying Computational Data Analytics at Georgia Tech and AI Engineering at Microsoft
