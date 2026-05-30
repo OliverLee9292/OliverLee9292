@@ -1,12 +1,15 @@
 # 💫 About Me
 
-🧪 I build zero-to-one AI systems that turn complex domain workflows into scalable products, learning and applying new tools quickly whenever the problem requires it <br>
-🤖 Focused on AI agents, computer vision, NLP automation, and workflow intelligence <br>
-📈 Currently working as a Quantitative Portfolio Manager in asset management, building AI-enabled platforms across investment research, portfolio monitoring, execution, attribution, and reporting <br>
-🧠 Interested in human-AI operating models that combine domain expertise, automation, and intelligent agents to increase individual leverage across complex research and execution workflows <br>
+# 💫 About Me
+
+🧪 I build AI automation systems that turn messy real-world workflows into reliable, usable software <br>
+🤖 I enjoy zero-to-one building: understanding the problem, learning the necessary tools, and connecting data pipelines, ML models, agents, and interfaces into end-to-end products <br>
+📈 Currently working as a Quantitative Portfolio Manager in asset management, where I build AI-enabled platforms for investment research, portfolio monitoring, execution support, attribution, and reporting <br>
+🧠 My main interest is human-AI workflow automation: using agents and software systems to reduce manual work, improve decision-making, and increase individual and team leverage <br>
+🚀 Also interested in emerging technologies such as VR/AR, quantum machine learning, and DeFi / on-chain trading infrastructure, especially when they can be applied to build practical tools <br>
 🌱 Studying Computational Data Analytics at Georgia Tech and AI Engineering through Microsoft’s AI engineering program <br>
-💬 Ask me about agentic AI, cloud architecture, ML system design, workflow automation, or quantitative investing <br>
-🤝 Open to collaborating on applied AI, financial automation, MLOps, and AI-native productivity tools <br>
+💬 Ask me about AI automation, agentic AI, workflow systems, cloud architecture, ML system design, or quantitative investing <br>
+🤝 Open to collaborating on zero-to-one AI products, financial automation, applied ML systems, DeFi tooling, and AI-native productivity tools <br>
 
 
 ## 🌐 Socials:
