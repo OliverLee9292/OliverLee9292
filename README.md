@@ -1,7 +1,5 @@
 # 💫 About Me
 
-# 💫 About Me
-
 🧪 I build AI automation systems that turn messy real-world workflows into reliable, usable software <br>
 🤖 I enjoy zero-to-one building: understanding the problem, learning the necessary tools, and connecting data pipelines, ML models, agents, and interfaces into end-to-end products <br>
 📈 Currently working as a Quantitative Portfolio Manager in asset management, where I build AI-enabled platforms for investment research, portfolio monitoring, execution support, attribution, and reporting <br>
