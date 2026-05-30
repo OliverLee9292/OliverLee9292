@@ -5,7 +5,7 @@
 📈 Currently working as a Quantitative Portfolio Manager in asset management, where I build AI-enabled platforms for investment research, portfolio monitoring, execution support, attribution, and reporting <br>
 🧠 My main interest is human-AI workflow automation: using agents and software systems to reduce manual work, improve decision-making, and increase individual and team leverage <br>
 🚀 Also interested in emerging technologies such as VR/AR, quantum machine learning, and DeFi / on-chain trading infrastructure, especially when they can be applied to build practical thing <br>
-🌱 Studying Computational Data Analytics at Georgia Tech and previously trained in AI engineering through Microsoft’s traineeship program <br>
+🌱 Studying Computational Data Analytics at Georgia Tech with hands-on AI engineering experience from Microsoft’s traineeship program <br>
 💬 Ask me about AI automation, agentic AI, workflow systems, cloud architecture, ML system design, or quantitative investing <br>
 🤝 Open to collaborating on zero-to-one AI products, financial automation, applied ML systems, DeFi tooling, and AI-native productivity tools <br>
 
