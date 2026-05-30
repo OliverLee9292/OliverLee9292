@@ -1,11 +1,12 @@
 # 💫 About Me
 
-🧪 I build practical AI solutions using Python, Azure, and modern ML tooling <br>
-🤖 Currently focused on AI agents, computer vision, and NLP-driven automation <br>
-📈 I also work on quantitative investing and algorithmic trading projects <br>
-🌱 Studying Computational Data Analytics at Georgia Tech and AI Engineering at Microsoft <br>
-💬 Ask me about cloud architecture, workflow automation, or ML system design <br>
-🤝 Open to collaborating on ML engineering, agentic AI, and applied data science projects
+🧪 I build zero-to-one AI systems that turn complex domain workflows into scalable products, learning and applying new tools quickly whenever the problem requires it <br>
+🤖 Focused on AI agents, computer vision, NLP automation, and workflow intelligence <br>
+📈 Currently working as a Quantitative Portfolio Manager in asset management, building AI-enabled platforms across investment research, portfolio monitoring, execution, attribution, and reporting <br>
+🧠 Interested in human-AI operating models that combine domain expertise, automation, and intelligent agents to increase individual leverage across complex research and execution workflows <br>
+🌱 Studying Computational Data Analytics at Georgia Tech and AI Engineering through Microsoft’s AI engineering program <br>
+💬 Ask me about agentic AI, cloud architecture, ML system design, workflow automation, or quantitative investing <br>
+🤝 Open to collaborating on applied AI, financial automation, MLOps, and AI-native productivity tools <br>
 
 
 ## 🌐 Socials:
