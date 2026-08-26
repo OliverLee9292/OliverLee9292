@@ -61,8 +61,6 @@
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-5B21B6?style=for-the-badge)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
