@@ -78,13 +78,11 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-stats-extended.vercel.app/api?username=OliverLee9292&theme=cobalt&hide_border=false&include_all_commits=false)
-![](https://github-stats-extended.vercel.app/api/top-langs?username=OliverLee9292&theme=cobalt&hide_border=false&layout=compact)
+
+![](https://github-stats-extended.vercel.app/api/top-langs?username=OliverLee9292&theme=cobalt&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OliverLee9292&limit=5&theme=cobalt2&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OliverLee9292&icon=0&color=1)](https://visitcount.itsvg.in)
