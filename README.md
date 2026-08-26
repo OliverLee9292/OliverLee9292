@@ -76,10 +76,9 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OliverLee9292&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OliverLee9292&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverLee9292&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats:
+![](https://github-stats-extended.vercel.app/api?username=OliverLee9292&theme=cobalt&hide_border=false&include_all_commits=false)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=OliverLee9292&theme=cobalt&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
